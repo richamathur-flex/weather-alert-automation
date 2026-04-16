@@ -32,7 +32,7 @@ n8n-learning-journey/
 
 ## 🚀 Quick Start
 
-1. **View the learning page:** https://richamathur-flex.github.io/weather-alert-automation/
+1. **View the learning page:** GitHub Pages deployment available
 2. **Import workflows:** Download any `.json` file from `/workflows` and import it into your n8n instance
 3. **n8n Cloud:** [app.n8n.cloud](https://app.n8n.cloud) — Free trial with 1000 executions
 
@@ -48,7 +48,7 @@ n8n-learning-journey/
 
 ![Workflow](./workflow.png)
 
-> n8n workflow: Schedule → API → Email Automation
+> End-to-end automation: scheduled trigger → API integration → automated email delivery
 > ## 📩 Sample Output
 
 ![Email Output](./email.output.png)
