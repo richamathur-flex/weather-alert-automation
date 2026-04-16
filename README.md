@@ -32,24 +32,24 @@ n8n-learning-journey/
 
 ## 🚀 Quick Start
 
-1. **View the learning page:** [Live Site](https://YOUR_USERNAME.github.io/n8n-learning-journey/)
+1. **View the learning page:** https://richamathur-flex.github.io/weather-alert-automation/
 2. **Import workflows:** Download any `.json` file from `/workflows` and import it into your n8n instance
 3. **n8n Cloud:** [app.n8n.cloud](https://app.n8n.cloud) — Free trial with 1000 executions
 
-## 📝 Learning Log
+## 📝Implementation Notes
 
-### Day 1 — April 16, 2026
-- Created n8n Cloud account
-- Explored dashboard: Workflows, Credentials, Executions tabs
-- Started Project 01: Weather Alert to Email
-- **Key insight:** Each node's output becomes the next node's input — data flows visually
+- Designed a scheduled workflow using n8n
+- Integrated external weather API (OpenWeatherMap)
+- Processed API response and mapped required fields
+- Automated email delivery using Gmail node
+- Established end-to-end data flow between nodes
 
 ## 🛠 Tools & Stack
 
 - **n8n Cloud** — Workflow automation
 - **OpenWeatherMap API** — Weather data
 - **Gmail** — Email delivery
-- **GitHub Pages** — Hosting the learning tracker
+- **GitHub Pages** — Hosting project showcase
 - **OpenAI / Claude** — AI integration (Project 04)
 
 ## 📌 Resources
@@ -60,4 +60,4 @@ n8n-learning-journey/
 
 ---
 
-*Built with curiosity and caffeine ☕*
+*Built as part of workflow automation solution development.*
