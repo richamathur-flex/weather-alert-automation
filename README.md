@@ -44,6 +44,17 @@ n8n-learning-journey/
 - Automated email delivery using Gmail node
 - Established end-to-end data flow between nodes
 
+## 📸 Workflow Screenshot
+
+<p align="center">
+  <img src="assets/weather-workflow.png" width="700"/>
+</p>
+
+<p align="center">
+  <i>n8n workflow: Schedule → API → Email Automation</i>
+</p>
+![Weather Automation Workflow](assets/weather-workflow.png)
+
 ## 🛠 Tools & Stack
 
 - **n8n Cloud** — Workflow automation
