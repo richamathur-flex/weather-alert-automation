@@ -1,10 +1,10 @@
-# 🔄 My n8n Learning Journey
+# 🔄Workflow Automation Projects (n8n)
 
 > Documenting my path from n8n beginner to workflow automation pro.
 
 ## 🎯 What This Is
 
-A hands-on learning lab where I build progressively complex n8n workflows, document everything I learn, and share my progress publicly. The goal: master n8n automation and apply it to real AI-powered use cases.
+A collection of practical automation workflows designed to solve real-world problems using n8n. These projects demonstrate API integration, data processing, and automated communication systems..
 
 ## 📊 Progress Tracker
 
