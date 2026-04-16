@@ -46,9 +46,9 @@ n8n-learning-journey/
 
 ## 📸 Workflow Screenshot
 
-## 📸 Workflow Screenshot
+![Workflow](./workflow.png)
 
-![Workflow](./assets/weather-workflow.png)
+> n8n workflow: Schedule → API → Email Automation
 
 ## 🛠 Tools & Stack
 
