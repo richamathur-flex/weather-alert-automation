@@ -49,6 +49,11 @@ n8n-learning-journey/
 ![Workflow](./workflow.png)
 
 > n8n workflow: Schedule → API → Email Automation
+> ## 📩 Sample Output
+
+![Email Output](./email.output.png)
+
+> Automated email generated from workflow execution
 
 ## 🛠 Tools & Stack
 
