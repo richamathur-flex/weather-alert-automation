@@ -1,6 +1,6 @@
 # 🔄Workflow Automation Projects (n8n)
 
-> Documenting my path from n8n beginner to workflow automation pro.
+> Real-world automation workflows integrating APIs, scheduling, and communication systems.
 
 ## 🎯 What This Is
 
